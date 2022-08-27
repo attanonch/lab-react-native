@@ -3,3 +3,5 @@
 เพิ่มชื่อเมืองและตกแต่ง styles
 # section 6 : Add humidity & wind 
 เพิ่มความชื้นและความเร็วลม
+# section 6 : Add Button
+เพิ่มปุ่มสำหรับกดกลับไปหน้า home

@@ -1,6 +1,7 @@
 import React from "react";
-import { View, Text, StyleSheet } from "react-native";
-import { BorderlessButton } from "react-native-gesture-handler";
+import { View, Text, StyleSheet, Button } from "react-native";
+
+
 
 export default function Forecast(props){
     return (
@@ -10,6 +11,8 @@ export default function Forecast(props){
             <Text style={styles.textwhite}>Temperature : {props.temp} °C</Text>
             <Text style={styles.textwhite}>Humidity :  {props.humidity} RH</Text>
             <Text style={styles.textwhite}>Wind speed :  {props.wind} knots</Text>
+            <Button title ="Home" type="Home"Button />
+            
         </View>
     )
 }
