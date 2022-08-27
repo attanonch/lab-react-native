@@ -8,7 +8,8 @@ export default function Forecast(props){
             <Text style={styles.textwhite}>main : {props.main} </Text>
             <Text style={styles.textwhite}>Descrtion : {props.description}</Text>
             <Text style={styles.textwhite}>Temperature : {props.temp} °C</Text>
-            
+            <Text style={styles.textwhite}>Humidity :  {props.humidity} RH</Text>
+            <Text style={styles.textwhite}>Wind speed :  {props.wind} knots</Text>
         </View>
     )
 }
