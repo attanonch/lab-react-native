@@ -10,3 +10,7 @@
 ตกแต่ง styles เพิ่มเติม
 # section 6 : Add icon
 เพิ่มไอคอนสำหรับให้ปรับเปลี่ยนตามสภาพอากาศจริง
+
+![image](https://imgur.com/a/tGRD9md.jpg)
+![image](https://imgur.com/a/7XeGCuy.jpg)
+![image](https://imgur.com/a/KGXPfa5.jpg)
