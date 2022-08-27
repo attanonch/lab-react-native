@@ -11,6 +11,6 @@
 # section 6 : Add icon
 เพิ่มไอคอนสำหรับให้ปรับเปลี่ยนตามสภาพอากาศจริง
 
-![alt text](https://imgur.com/a/tGRD9md.jpg)
-![alt text](https://imgur.com/a/7XeGCuy.jpg)
-![alt text](https://imgur.com/a/KGXPfa5.jpg)
+![image one](https://www.picz.in.th/image/home.ahywYg.jpg)
+![image two](https://www.picz.in.th/image/weather.ahyZM1.jpg)
+![image three](https://www.picz.in.th/image/rainweather.ahygwy.jpg)
