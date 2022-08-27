@@ -1,13 +1,13 @@
 import React from "react";
 import { View, Text, StyleSheet } from "react-native";
+import { BorderlessButton } from "react-native-gesture-handler";
 
 export default function Forecast(props){
     return (
-        <View> 
-            <Text style={styles.textwhite}>{props.main}</Text>
-            <Text style={styles.textwhite}>{props.descrtion}</Text>
-            <Text style={styles.textwhite}>{props.temp}</Text>
-            <Text style={styles.textwhite}>°C</Text>
+        <View style = {styles.weatherContain}> 
+            <Text style={styles.textwhite}>main : {props.main} </Text>
+            <Text style={styles.textwhite}>Descrtion : {props.description}</Text>
+            <Text style={styles.textwhite}>Temperature : {props.temp} °C</Text>
             
         </View>
     )
@@ -15,8 +15,15 @@ export default function Forecast(props){
 
 const styles = StyleSheet.create({
     textwhite: {
-      color: 'white', 
+      color: 'black', 
       fontWeight: 'bold',
       fontSize: 25,
+      marginTop: 15,
     },
+    weatherContain: {
+        backgroundColor : "#FAF0E6" ,
+        borderRadius : 10,
+        color: 'black',
+        marginTop: 15,
+    }
   });
