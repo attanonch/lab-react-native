@@ -11,6 +11,6 @@
 # section 6 : Add icon
 เพิ่มไอคอนสำหรับให้ปรับเปลี่ยนตามสภาพอากาศจริง
 
-![alt text](https://imgur.com/a/tGRD9md.jpg)
-![alt text](https://imgur.com/a/7XeGCuy.jpg)
-![alt text](https://imgur.com/a/KGXPfa5.jpg)
+![image](https://imgur.com/a/tGRD9md.jpg)
+![imagetwo](https://imgur.com/a/7XeGCuy.jpg)
+![imagetree](https://imgur.com/a/KGXPfa5.jpg)
