@@ -5,3 +5,5 @@
 เพิ่มความชื้นและความเร็วลม
 # section 6 : Add Button
 เพิ่มปุ่มสำหรับกดกลับไปหน้า home
+# section 6 : styles
+ตกแต่ง styles เพิ่มเติม

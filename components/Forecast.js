@@ -1,5 +1,5 @@
 import React from "react";
-import { View, Text, StyleSheet, Button } from "react-native";
+import { View, Text, StyleSheet, Button,Icon } from "react-native";
 
 
 
@@ -11,7 +11,9 @@ export default function Forecast(props){
             <Text style={styles.textwhite}>Temperature : {props.temp} °C</Text>
             <Text style={styles.textwhite}>Humidity :  {props.humidity} RH</Text>
             <Text style={styles.textwhite}>Wind speed :  {props.wind} knots</Text>
-            <Button title ="Home" type="Home"Button />
+            <Button color="red" title ="Home" type="Home"Button />
+            
+ 
             
         </View>
     )
@@ -26,8 +28,9 @@ const styles = StyleSheet.create({
     },
     weatherContain: {
         backgroundColor : "#FAF0E6" ,
-        borderRadius : 10,
+        borderRadius : 5,
         color: 'black',
         marginTop: 15,
     }
+
   });

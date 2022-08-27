@@ -66,9 +66,11 @@ const styles = StyleSheet.create({
         flex: 1,
     },
     textwhite: {
-        backgroundColor: "lightgreen",
+        backgroundColor: "lightblue",
+        borderRadius : 15,
         color: 'firebrick', 
         fontWeight: 'bold',
         fontSize: 25,
+        marginTop: 15
     }
 })
