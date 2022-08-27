@@ -1,4 +1,5 @@
 # นายอรรถนนท์ ชูพูล รหัส 6310110563 sec02
+
 # section 6 : Add cities & styles
 เพิ่มชื่อเมืองและตกแต่ง styles
 # section 6 : Add humidity & wind 
@@ -7,3 +8,5 @@
 เพิ่มปุ่มสำหรับกดกลับไปหน้า home
 # section 6 : styles
 ตกแต่ง styles เพิ่มเติม
+# section 6 : Add icon
+เพิ่มไอคอนสำหรับให้ปรับเปลี่ยนตามสภาพอากาศจริง
